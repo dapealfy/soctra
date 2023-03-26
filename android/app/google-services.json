@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59858369413",
+    "project_id": "soctra-cddec",
+    "storage_bucket": "soctra-cddec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59858369413:android:8fb089c2b3a433ee5b62ec",
+        "android_client_info": {
+          "package_name": "id.dsapp.soctra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59858369413-qro6p5cb4th82amsav19dd9htvrc757u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzvATgQ3MwMenqJTLUQ0BFVcFbxkFBEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59858369413-qro6p5cb4th82amsav19dd9htvrc757u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
